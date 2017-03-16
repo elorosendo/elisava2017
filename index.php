@@ -6,9 +6,11 @@
 </head>
 <body>
 
-teste
+<?php
 
-tes
+	echo "Hola";
+?>
+
 
 </body>
 </html>
